@@ -1,0 +1,25 @@
+{
+  "name": "online-psr-1",
+  "version": "1.0.0",
+  "description": "this is an `online paper scissors rock` game.\r ## prerequisite\r - node.js 24+\r - git\r ## run the project\r ```\r $ node index.js\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steve-g2/online-psr-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Steve-g2/online-psr-1/issues"
+  },
+  "homepage": "https://github.com/Steve-g2/online-psr-1#readme",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
